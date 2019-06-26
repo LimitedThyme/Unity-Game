@@ -1,19 +1,23 @@
 fileFormatVersion: 2
-guid: cac63442c1157407c89a6481931ae75e
+guid: fbcb0a1d476c04cfa9cac073dc426848
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Body of Water Tile s_0
-    21300002: Body of Water Tile s_1
-    21300004: Body of Water Tile s_2
-    21300006: Body of Water Tile s_3
-    21300008: Body of Water Tile s_4
-    21300010: Body of Water Tile s_5
-    21300012: Body of Water Tile s_6
-    21300014: Body of Water Tile s_7
-    21300016: Body of Water Tile s_8
-    21300018: Body of Water Tile s_9
-    21300020: Body of Water Tile s_10
-    21300022: Body of Water Tile s_11
+    21300000: TREE 1_0
+    21300002: TREE 1_1
+    21300004: TREE 1_2
+    21300006: TREE 1_3
+    21300008: TREE 1_4
+    21300010: TREE 1_5
+    21300012: TREE 1_6
+    21300014: TREE 1_7
+    21300016: TREE 1_8
+    21300018: TREE 1_9
+    21300020: TREE 1_10
+    21300022: TREE 1_11
+    21300024: TREE 1_12
+    21300026: TREE 1_13
+    21300028: TREE 1_14
+    21300030: TREE 1_15
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -48,7 +52,7 @@ TextureImporter:
     mipBias: -100
     wrapU: 1
     wrapV: 1
-    wrapW: 1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -96,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Body of Water Tile s_0
+      name: TREE 1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -104,19 +108,19 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44a5bd28f28e544479a7e0758deba383
+      spriteID: a87f466f4a2354a86bfbcbba695a92a5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body of Water Tile s_1
+      name: TREE 1_1
       rect:
         serializedVersion: 2
         x: 32
@@ -124,19 +128,19 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1134c0f8328d74a92abae0965e550ae4
+      spriteID: c87558cca625b48c5868f3f9569347ce
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body of Water Tile s_2
+      name: TREE 1_2
       rect:
         serializedVersion: 2
         x: 64
@@ -144,19 +148,39 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 021fe7640329d457a98bc92208bac41e
+      spriteID: d8a9a1852a0874b49b3728a9cf55ddb2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body of Water Tile s_3
+      name: TREE 1_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deb63d43038c4adc8f429545721cbbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TREE 1_4
       rect:
         serializedVersion: 2
         x: 0
@@ -164,19 +188,19 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff2b85441059d4676a8259afd2a5eed8
+      spriteID: 6c8e4a3cfc321482aa4c0e9f4c3a75fa
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body of Water Tile s_4
+      name: TREE 1_5
       rect:
         serializedVersion: 2
         x: 32
@@ -184,19 +208,19 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc41a957a2cad49f7b60315cb70cbaf1
+      spriteID: 993ba0e2c17304778929458f20d156a7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body of Water Tile s_5
+      name: TREE 1_6
       rect:
         serializedVersion: 2
         x: 64
@@ -204,19 +228,39 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25695349cf15849798aeaa5358a79ab9
+      spriteID: 3677bf9fc1ec44f0b815624db8a59e3b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body of Water Tile s_6
+      name: TREE 1_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323d80d21061543c885a653f54014201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TREE 1_8
       rect:
         serializedVersion: 2
         x: 0
@@ -224,19 +268,19 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 039fb5892d6634ea78bb66034541ca96
+      spriteID: 91da8b96aed614bababfa8c6af40d890
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body of Water Tile s_7
+      name: TREE 1_9
       rect:
         serializedVersion: 2
         x: 32
@@ -244,19 +288,19 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 138c99067e3184a83a0add24299fe2ad
+      spriteID: 2b96cf4031f4e4cb7920e6411e365081
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body of Water Tile s_8
+      name: TREE 1_10
       rect:
         serializedVersion: 2
         x: 64
@@ -264,19 +308,39 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e50f9cf76d9d3448c901cf071d153fac
+      spriteID: c118f7401d55e4eefb40cca42e4678eb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body of Water Tile s_9
+      name: TREE 1_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc00e97aabcc4d0cb114bae5fd02411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TREE 1_12
       rect:
         serializedVersion: 2
         x: 0
@@ -284,19 +348,19 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1afe54ac5f554d40b57415404aa8e11
+      spriteID: 94237f0e4c38941bda2b955d292c91bd
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body of Water Tile s_10
+      name: TREE 1_13
       rect:
         serializedVersion: 2
         x: 32
@@ -304,19 +368,19 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38a3b551aacf64994b854b9fbb82db4f
+      spriteID: cc365cf3a47d94cf6b5967c34ed7d298
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body of Water Tile s_11
+      name: TREE 1_14
       rect:
         serializedVersion: 2
         x: 64
@@ -324,13 +388,33 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74ac2fc44f3a241648b01fcb2033c9e3
+      spriteID: 4aa0ce7d87f7241b4a4f4fbfc3cac7e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TREE 1_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90bfb04308df4c689731ab5110a88fa
       vertices: []
       indices: 
       edges: []
@@ -338,7 +422,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 62fcdc0cf3a3044aba944d2afc6e280d
+    spriteID: 499b328731d7c4ade815e95b2f99cdd3
     vertices: []
     indices: 
     edges: []
