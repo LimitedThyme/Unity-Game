@@ -204,10 +204,10 @@ GameObject:
   m_Component:
   - component: {fileID: 696012299}
   - component: {fileID: 696012298}
-  - component: {fileID: 696012297}
   - component: {fileID: 696012296}
   - component: {fileID: 696012295}
   - component: {fileID: 696012294}
+  - component: {fileID: 696012297}
   m_Layer: 0
   m_Name: Girl Priest
   m_TagString: Untagged
