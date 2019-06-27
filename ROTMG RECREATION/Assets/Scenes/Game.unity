@@ -211,6 +211,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa88760561e6942ec95da82c27c4e9bb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  currentState: 0
   speed: 4
 --- !u!212 &233242060
 SpriteRenderer:
@@ -2500,7 +2501,7 @@ MonoBehaviour:
   target: {fileID: 1602100844}
   smoothing: 1
   maxPosition: {x: 6, y: 3}
-  minPosition: {x: -7, y: -3}
+  minPosition: {x: -6, y: -3}
 --- !u!1 &357209069
 GameObject:
   m_ObjectHideFlags: 0
@@ -2699,6 +2700,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa88760561e6942ec95da82c27c4e9bb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  currentState: 0
   speed: 4
 --- !u!212 &696012298
 SpriteRenderer:
@@ -2897,6 +2899,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa88760561e6942ec95da82c27c4e9bb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  currentState: 0
   speed: 4
 --- !u!95 &1602100840
 Animator:
@@ -2934,7 +2937,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.5, y: 1.5}
+    oldSize: {x: 0.75, y: 0.875}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
